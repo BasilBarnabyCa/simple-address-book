@@ -1,4 +1,7 @@
 package com.example.simpleaddressbook;
 
-public class Country {
+public enum Country {
+    CANADA,
+    USA,
+    JAMAICA
 }
